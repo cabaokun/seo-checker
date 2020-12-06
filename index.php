@@ -8,7 +8,7 @@
 <body>
 <div id="contents-body">
 	<h1>ツール・<span class="color-chenge">ド</span>・ナカハラ</h1>
-	<p>チェッカーつくりました。←係り受け</p>
+	<p>SEOチェッカーつくりました。<a href="memo.txt">	制作メモ</a></p>
 	<h2>SEOチェッカー</h2>
 	<p>SEOチェッカーにURLを入力すれば、サイトのタイトルなどを取得する可能性がございます。</p>
 	<form action="./checker.php" method="get">
